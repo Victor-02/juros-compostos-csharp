@@ -12,7 +12,15 @@ public class JurosController : ControllerBase
     Investimento invest = new Investimento(0.01, 500.0, 1000.0, 12);
 
     [HttpGet]
-    public Dictionary<string, double> getTotal(){
+    public Dictionary<string, double> getTotal()
+    {
         return Util.Utils.jurosCompostos(invest);
+    }
+
+    [HttpPost]
+    public void Post([FromBody]JurosModel model)
+    {
+        invest = Util.Utils.jurosCompostos(model);
+        Console.WriteLine(invest);
     }
 }
