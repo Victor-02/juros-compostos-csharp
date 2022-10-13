@@ -18,9 +18,9 @@ public class JurosController : ControllerBase
     }
 
     [HttpPost]
-    public void Post([FromBody]JurosModel model)
+    public Dictionary<string, double> Post([FromBody]Investimento model)
     {
-        invest = Util.Utils.jurosCompostos(model);
-        Console.WriteLine(invest);
+        return Util.Utils.jurosCompostos(model);
+        
     }
 }

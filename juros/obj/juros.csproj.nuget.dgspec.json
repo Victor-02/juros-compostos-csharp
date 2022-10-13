@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\jurosCSharp\\juros\\juros.csproj": {}
+    "C:\\Projetos\\juros-compostos-csharp\\juros\\juros.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\jurosCSharp\\juros\\juros.csproj": {
+    "C:\\Projetos\\juros-compostos-csharp\\juros\\juros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\jurosCSharp\\juros\\juros.csproj",
+        "projectUniqueName": "C:\\Projetos\\juros-compostos-csharp\\juros\\juros.csproj",
         "projectName": "juros",
-        "projectPath": "C:\\Projetos\\jurosCSharp\\juros\\juros.csproj",
+        "projectPath": "C:\\Projetos\\juros-compostos-csharp\\juros\\juros.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\jurosCSharp\\juros\\obj\\",
+        "outputPath": "C:\\Projetos\\juros-compostos-csharp\\juros\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

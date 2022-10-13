@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Imsj1qR6MbJZ+GMHQJc5f7qZ6VtWrOIhrnBBIRCeSQDbIkBYU2IZCgJZ7i/UbDOtXwy6llpPG340pf6w6kkBg==",
+  "dgSpecHash": "UgpBk59T/amWLQ26/3i5bZrOa5oDEZzb87AUs6n8XwDQ70B0wCVDBTodfE3RWVn0BjwHuFw6b6zULYKCuMvsxQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\jurosCSharp\\juros\\juros.csproj",
+  "projectFilePath": "C:\\Projetos\\juros-compostos-csharp\\juros\\juros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
